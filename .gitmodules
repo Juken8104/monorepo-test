@@ -1,0 +1,6 @@
+[submodule "packages/webproto"]
+	path = packages/webproto
+	url = https://github.com/XShareGrid/webproto
+[submodule "packages/CommonJS"]
+	path = packages/CommonJS
+	url = https://github.com/XShareGrid/CommonJS.git
